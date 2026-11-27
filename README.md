@@ -1,63 +1,46 @@
 <div align="center">
 
-# Hi there, I'm Priyanka Koraba 👋
+# Hi, I'm Priyanka Koraba 👋
 
-**B.Tech AI & Data Science ’30 | GitHub Foundations Certified | Exploring C, C++, HTML & AI-Assisted Prototyping**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka_Koraba-0A66C2?logo=linkedin)](https://www.linkedin.com/in/priyanka-koraba-ai/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/learnai_bits_to_bytes/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:priyankakoraba5@gmail.com)
+**B.Tech AI & Data Science ’30 | GitHub Foundations Certified**
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka_Koraba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-koraba-ai/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learnai_bits_to_bytes/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankakoraba5@gmail.com)
 
 </div>
 
----
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
-- 🎓 First-year **B.Tech Artificial Intelligence & Data Science** student at **Sharnbasva University, Kalaburagi** (2026–2030).
-- 🏅 **GitHub Foundations Certified** — passionate about version control, collaborative workflows, and learning by building.
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **Python fundamentals**.
-- 🤝 Open to beginner-friendly remote internships, hackathons, and student collaborations.
+- 🎓 First-year **B.Tech Artificial Intelligence & Data Science** student at **Sharnbasva University, Kalaburagi** (2026–2030)
+- 🏅 **GitHub Foundations Certified** with an interest in collaborative development and version control
+- 🌱 Currently learning **Python, Data Structures & Algorithms, C, C++, and HTML**
+- 🤝 Open to beginner-friendly remote internships, hackathons, and student collaborations
 
----
+## 🛠️ Skills & Tools
 
-### 🛠 Current Skills & Tools
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
----
+## 🚀 Featured Project
 
-### 🚀 Highlighted Project
-- **[Student Performance Prediction System (Live Demo)](https://vercel.app)** — A collaborative student web prototype deployed on Vercel using GitHub workflows and AI-assisted development to explore academic performance analytics. ([View Repository](https://github.com/priyankakoraba-ai/spp-system))
+### [Student Performance Prediction System](https://github.com/priyankakoraba-ai/spp-system)
 
----
+A collaborative machine-learning web project for exploring academic performance analytics. Built with GitHub workflows and AI-assisted development.
 
-### 📊 GitHub Stats & Streak
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyankakoraba-ai/spp-system)
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&amp;show_icons=true&amp;theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&show_icons=true&theme=default" alt="Priyanka's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai&theme=default" alt="Priyanka's GitHub streak" />
 </div>
-
----
-
-### 🤝 Connect With Me
-Click any badge below to visit my profile directly:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/priyanka-koraba-ai" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka-koraba-ai" height="30" width="40" /></a>
-  </a>
-  <a href="https://www.instagram.com/learnai_bits_to_bytes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:priyankakoraba5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
