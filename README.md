@@ -40,9 +40,9 @@ A collaborative machine-learning web project for exploring academic performance 
 
 ## 🤝 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learnai_bits_to_bytes/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-koraba-ai/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankakoraba5@gmail.com)
+<a href="https://www.instagram.com/learnai_bits_to_bytes/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyanka-koraba-ai/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40" /></a>&nbsp;&nbsp;
+<a href="mailto:priyankakoraba5@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40" /></a>
 
 ## 📊 GitHub Activity
 
