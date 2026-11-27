@@ -38,6 +38,12 @@ A collaborative machine-learning web project for exploring academic performance 
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyankakoraba-ai/spp-system)
 
+## 🤝 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learnai_bits_to_bytes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-koraba-ai/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankakoraba5@gmail.com)
+
 ## 📊 GitHub Activity
 
 <div align="center">
