@@ -50,3 +50,9 @@ A collaborative machine-learning web project for exploring academic performance 
   <img src="https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&show_icons=true&theme=default" alt="Priyanka's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai&theme=default" alt="Priyanka's GitHub streak" />
 </div>
+
+## 💻 Programming Languages Across Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankakoraba-ai&layout=compact&langs_count=10&theme=default" alt="Most-used programming languages across Priyanka's public repositories" />
+</div>
