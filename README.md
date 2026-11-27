@@ -3,11 +3,11 @@
 # Hi there, I'm Priyanka Koraba 👋
 
 **B.Tech AI & Data Science ’30 | GitHub Foundations Certified | Exploring C, C++, HTML & AI-Assisted Prototyping**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka_Koraba-0A66C2?logo=linkedin)](https://www.linkedin.com/in/priyanka-koraba-ai/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/learnai_bits_to_bytes/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail)](mailto:priyankakoraba5@gmail.com)
 
-[![Profile Views](https://komarev.com)](https://github.com/priyankakoraba-ai/)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/priyanka-koraba-ai/)
-[![Instagram](https://shields.io)](https://www.instagram.com/learnai_bits_to_bytes/)
-[![Gmail](https://shields.io)](mailto:priyankakoraba5@gmail.com)
+
 
 </div>
 
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats & Streak
 <div align="center">
-  <img height="165em" src="https://spp-system.vercel.app/" alt="Priyanka's GitHub Stats" />
-  <img height="165em" src="https://spp-system.vercel.app/" alt="Priyanka's GitHub Streak" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&show_icons=true&theme=default)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai)
 </div>
 
 ---
