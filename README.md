@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learnai_bits_to_bytes/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyankakoraba5@gmail.com)
 
+![Profile views](https://komarev.com/ghpvc/?username=priyankakoraba-ai&style=for-the-badge&color=blue)
+
 </div>
 
 ## 👩‍💻 About Me
