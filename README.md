@@ -23,13 +23,13 @@
 
 ### 🛠 Current Skills & Tools
 <p>
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="Excel" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Vercel" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats & Streak
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&show_icons=true&theme=default)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai)
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankakoraba-ai&amp;show_icons=true&amp;theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankakoraba-ai" alt="GitHub Streak" />
 </div>
 
 ---
@@ -55,9 +55,9 @@ Click any badge below to visit my profile directly:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka-koraba-ai" height="30" width="40" /></a>
   </a>
   <a href="https://www.instagram.com/learnai_bits_to_bytes/" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:priyankakoraba5@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
