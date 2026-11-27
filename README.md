@@ -4,9 +4,9 @@
 
 **B.Tech AI & Data Science ’30 | GitHub Foundations Certified | Exploring C, C++, HTML & AI-Assisted Prototyping**
 
-[![Profile Views](https://komarev.com)](https://github.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+[![Profile Views](https://komarev.com)](https://github.com/priyankakoraba-ai/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/priyanka-koraba-ai/)
+[![Instagram](https://shields.io)](https://www.instagram.com/learnai_bits_to_bytes/)
 [![Gmail](https://shields.io)](mailto:priyankakoraba5@gmail.com)
 
 </div>
@@ -35,14 +35,14 @@
 ---
 
 ### 🚀 Highlighted Project
-- **[Student Performance Prediction System (Live Demo)](https://vercel.app)** — A collaborative student web prototype deployed on Vercel using GitHub workflows and AI-assisted development to explore academic performance analytics. ([View Repository](https://github.com/spp-system))
+- **[Student Performance Prediction System (Live Demo)](https://vercel.app)** — A collaborative student web prototype deployed on Vercel using GitHub workflows and AI-assisted development to explore academic performance analytics. ([View Repository](https://github.com/priyankakoraba-ai/spp-system))
 
 ---
 
 ### 📊 GitHub Stats & Streak
 <div align="center">
-  <img height="165em" src="https://vercel.app" alt="Priyanka's GitHub Stats" />
-  <img height="165em" src="https://demolab.com" alt="Priyanka's GitHub Streak" />
+  <img height="165em" src="https://spp-system.vercel.app/" alt="Priyanka's GitHub Stats" />
+  <img height="165em" src="https://spp-system.vercel.app/" alt="Priyanka's GitHub Streak" />
 </div>
 
 ---
@@ -51,10 +51,10 @@
 Click any badge below to visit my profile directly:
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanka-koraba-ai" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://www.instagram.com/learnai_bits_to_bytes/" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
   </a>
   <a href="mailto:priyankakoraba5@gmail.com">
