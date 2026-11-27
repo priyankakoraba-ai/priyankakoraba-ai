@@ -52,7 +52,7 @@ Click any badge below to visit my profile directly:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanka-koraba-ai" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka-koraba-ai" height="30" width="40" /></a>
   </a>
   <a href="https://www.instagram.com/learnai_bits_to_bytes/" target="_blank">
     <img src="https://shields.io" alt="Instagram" />
