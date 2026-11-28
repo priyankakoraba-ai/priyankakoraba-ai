@@ -34,7 +34,7 @@
 
 ## 🚀 Featured Project
 
-### [Student Performance Prediction System](https://github.com/priyankakoraba-ai/spp-system)
+### [Student Performance Prediction System](https://spp-system.vercel.app/)
 
 A collaborative machine-learning web project for exploring academic performance analytics. Built with GitHub workflows and AI-assisted development.
 
